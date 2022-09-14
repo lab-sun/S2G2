@@ -103,5 +103,15 @@ python3 test.py  --dataset cityscapes  \
 # Results   
 ![results](./Images/results.png)
 
-# Citation   
+# Citation  
+
+@article{Gao2022icra-ral,
+author = {Gao, Shuang and Wang, Qiang and Sun, Yuxiang},
+journal = {IEEE Robotics and Automation Letters},
+number = {},
+pages = {},
+title = {{S2G2: Semi-Supervised Semantic Bird-Eye-View Grid-Map Generation using a Monocular Camera for Autonomous Driving}},
+volume = {},
+year = {2022}
+}
 
