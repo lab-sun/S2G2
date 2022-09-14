@@ -41,9 +41,9 @@ The following table provides links to the pretrained models for different amount
 
 | Proportion | mIoU(%) | mAP(%) | Pretrained Model |   
 | :----: | :----: | :----: | :----: |
-| 10% | 0.5894 | 0.7003 | link |   
-| 40% | 0.5889 | 0.6956 | link |     
-| 80% | 0.5879 | 0.7110 | link |     
+| 10% | 0.5894 | 0.7003 | [link](https://labsun-me.polyu.edu.hk/sgao/S2G2/Eff_b4_10.pth) |   
+| 40% | 0.5889 | 0.6956 | [link](https://labsun-me.polyu.edu.hk/sgao/S2G2/Eff_b4_40.pth) |     
+| 80% | 0.5879 | 0.7110 | [link](https://labsun-me.polyu.edu.hk/sgao/S2G2/Eff_b4_80.pth) |     
 
 Please download the pretrained models and save them in the path `\weights\best_pth\`
 
