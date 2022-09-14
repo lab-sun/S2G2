@@ -21,7 +21,7 @@ Semantic bird-eye-view (BEV) grid map is a straightforward data representation f
 
 # Dataset 
 
-The original dataset can be downloaded from the [Cityscapes](https://www.cityscapes-dataset.com/downloads/) official page. We use the `leftImg8bit_trainvaltest.zip` as the labeled input and `leftImg8bit_trainextra.zip` as the unlabeled input. The BEV semantic ground truth which is corresponding to the `leftImg8bit_trainvaltest.zip`, can be get from [MonoOccupancy](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8603774). We mixed the labeled and unlabeled data together as our input to the S2G2. You are encouraged to download our preprocessed dataset from here. Please download, unzip and store the respective datasets in the `dataset/cityscapes` directory. The structure of the datasets is shown as follows: 
+The original dataset can be downloaded from the [Cityscapes](https://www.cityscapes-dataset.com/downloads/) official page. We use the `leftImg8bit_trainvaltest.zip` as the labeled input and `leftImg8bit_trainextra.zip` as the unlabeled input. The BEV semantic ground truth which is corresponding to the `leftImg8bit_trainvaltest.zip`, can be get from [MonoOccupancy](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8603774). We mixed the labeled and unlabeled data together as our input to the S2G2. You are encouraged to download our preprocessed dataset from [here](https://labsun-me.polyu.edu.hk/sgao/S2G2/dataset.zip). Please download, unzip and store the respective datasets in the `dataset/cityscapes` directory. The structure of the datasets is shown as follows: 
 ```
 dataset/
 `-- cityscapes
