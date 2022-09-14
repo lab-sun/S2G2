@@ -45,7 +45,7 @@ The following table provides links to the pretrained models for different amount
 | 40% | 0.5889 | 0.6956 | [link](https://labsun-me.polyu.edu.hk/sgao/S2G2/Eff_b4_40.pth) |     
 | 80% | 0.5879 | 0.7110 | [link](https://labsun-me.polyu.edu.hk/sgao/S2G2/Eff_b4_80.pth) |     
 
-Please download the pretrained models and save them in the path `\weights\best_pth\`
+Please download the pretrained models and save them in the path `\weights\best_pth\`. Don't forget to check the [md5](https://labsun-me.polyu.edu.hk/sgao/S2G2/md5.txt) code after downloading the files.
 
 # Training and Testing
 
