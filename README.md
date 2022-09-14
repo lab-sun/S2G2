@@ -35,17 +35,17 @@ dataset/
     `-- leftImg8bit_extra_subset_9992
 ```
 
-# pretrained Models   
+# pretrained Weights   
 
-The following table provides links to the pretrained models for different amount of the unlabeled images in the training set. The table also shows the corresponding evaluation results for the models. 
+The following table provides links to the pretrained weights for different amount of the unlabeled images in the training set. The table also shows the corresponding evaluation results for the models. 
 
-| Proportion | mIoU(%) | mAP(%) | Pretrained Model |   
+| Proportion | mIoU(%) | mAP(%) | Pretrained Weight |   
 | :----: | :----: | :----: | :----: |
 | 10% | 0.5894 | 0.7003 | [link](https://labsun-me.polyu.edu.hk/sgao/S2G2/Eff_b4_10.pth) |   
 | 40% | 0.5889 | 0.6956 | [link](https://labsun-me.polyu.edu.hk/sgao/S2G2/Eff_b4_40.pth) |     
 | 80% | 0.5879 | 0.7110 | [link](https://labsun-me.polyu.edu.hk/sgao/S2G2/Eff_b4_80.pth) |     
 
-Please download the pretrained models and save them in the path `\weights\best_pth\`. Don't forget to check the [md5](https://labsun-me.polyu.edu.hk/sgao/S2G2/md5.txt) code after downloading the files.
+Please download the pretrained weights and save them in the path `\weights\best_pth\`. Don't forget to check the [md5](https://labsun-me.polyu.edu.hk/sgao/S2G2/md5.txt) code after downloading the files.
 
 # Training and Testing
 
