@@ -105,13 +105,13 @@ python3 test.py  --dataset cityscapes  \
 
 # Citation  
 ```
-@article{Gao2022icra-ral,   
-author = {Gao, Shuang and Wang, Qiang and Sun, Yuxiang},   
-journal = {IEEE Robotics and Automation Letters},   
-number = {},   
-pages = {},   
-title = {{S2G2: Semi-Supervised Semantic Bird-Eye-View Grid-Map Generation using a Monocular Camera for Autonomous Driving}},   
-volume = {},   
-year = {2022}   
-}
+@ARTICLE{gao2022s2g2,
+  author={Shuang Gao and Qiang Wang and Yuxiang Sun},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={S2G2: Semi-Supervised Semantic Bird-Eye-View Grid-Map Generation using a Monocular Camera for Autonomous Driving}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/LRA.2022.3208377}}
 ```
