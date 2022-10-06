@@ -1,6 +1,6 @@
 # S2G2: Semi-Supervised Semantic Bird-Eye-View Grid-Map Generation using a Monocular Camera for Autonomous Driving
 
-This is the offical PyTorch implementation of S2G2: Semi-Supervised Semantic Bird-Eye-View Grid-Map Generation using a Monocular Camera for Autonomous Driving (IEEE RA-L). 
+This is the offical PyTorch implementation of S2G2: Semi-Supervised Semantic Bird-Eye-View Grid-Map Generation using a Monocular Camera for Autonomous Driving ([IEEE RA-L](https://yuxiangsun.github.io/pub/RAL2022_s2g2.pdf)). 
 
 The current version supports Python >= 3.8.10, CUDA >= 1.11.1 and PyTorch >= 1.10.1. Please modify the `Dockerfile` if you use different version. Other dependeces please refer to the `Dockerfile`.    
 
