@@ -1,4 +1,4 @@
-# 🔥 S2G2: Semi-Supervised Semantic Bird-Eye-View Grid-Map Generation using a Monocular Camera for Autonomous Driving
+# S2G2: Semi-Supervised Semantic Bird-Eye-View Grid-Map Generation using a Monocular Camera for Autonomous Driving
 
 This is the offical PyTorch implementation of S2G2: Semi-Supervised Semantic Bird-Eye-View Grid-Map Generation using a Monocular Camera for Autonomous Driving ([IEEE RA-L](https://yuxiangsun.github.io/pub/RAL2022_s2g2.pdf)). 
 
