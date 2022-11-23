@@ -100,6 +100,9 @@ python3 test.py  --dataset cityscapes  \
                  --resume ./weights/best_pth/Eff_b4_10.pth
 ```
 
+# Presentation
+[![cover](./Images/cover.png)](https://www.youtube.com/watch?v=luir1ORDhzY)
+
 # Results   
 [![results](./Images/results.png)](https://www.youtube.com/watch?v=RU93hhXUxrE)
 
